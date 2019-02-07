@@ -1,6 +1,14 @@
+  body{
+    color:orange;
+   }
+
+
+
   p{
     font-family:helvetica, sans-serif;
     font-size:6em;
+    text-align:center;
+    
     }
 
   div :hover{
