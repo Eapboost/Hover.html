@@ -12,9 +12,13 @@
     
     }
 
-  div :hover{
+
+  div{
     width:300px;
     height:400px;
+   }
+
+  div :hover{
     background-image: url ("catimage.jpg")
     color:red;
     
