@@ -20,7 +20,7 @@
     border: 1px yellow solid;
    }
 
-  .box :hover{
+  .box:hover{
     background-image: url ("catimage.jpg")
     
     
