@@ -19,6 +19,7 @@
     background-color:blue;
     border: 1px red solid;
     margin:0 auto;
+    position:absolute;
    }
 
   .box:hover{
